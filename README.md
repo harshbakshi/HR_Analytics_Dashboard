@@ -50,7 +50,7 @@ I wrote complex SQL queries to solve specific business challenges, including:
 
 The data for this project.
 
-- **Dataset Link:** [HR Dataset](https://github.com/harshbakshi/netflix_data_analysis_sql_project/blob/main/logo.png)
+- **Dataset Link:** [HR Dataset](https://github.com/harshbakshi/HR_Analytics_Dashboard/blob/main/Human%20Resources.csv)
 
 ## Author - Harsh bakshi
 
