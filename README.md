@@ -1,6 +1,6 @@
 # HR Analytics Dashboard: Data Analysis Project
 
-![]([https://github.com/najirh/netflix_sql_project/blob/main/logo.png](https://github.com/harshbakshi/HR_Analytics_Dashboard/blob/main/HR%20Dashboard.pdf))
+![](https://github.com/harshbakshi/HR_Analytics_Dashboard/blob/main/HR%20Dashboard.pdf)
 
 ## 📌 Project Overview
 This project is an end-to-end HR Analytics solution designed to investigate employee turnover trends for a multinational corporation. Acting as a Data Detective, I analyzed a comprehensive HR dataset to uncover hidden factors causing valuable employees to leave, providing actionable insights for the management team.
