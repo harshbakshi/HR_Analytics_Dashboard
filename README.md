@@ -38,12 +38,6 @@ I wrote complex SQL queries to solve specific business challenges, including:
 
 - Interactivity: Implemented filters for departments, job titles, and locations to allow stakeholders to drill down into specific data points.
 
-## 🛠️ Technologies Used
-
-- Analyze the distribution of content types (movies vs TV shows).
-- Identify the most common ratings for movies and TV shows.
-- List and analyze content based on release years, countries, and durations.
-- Explore and categorize content based on specific criteria and keywords.
 
 
 ## Dataset
